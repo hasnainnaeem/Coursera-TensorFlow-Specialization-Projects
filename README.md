@@ -1,5 +1,5 @@
 # Coursera-TensorFlow-Specialization-Projects
- This repo contains the projects I have completed during [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice) from Coursera.
+ This repo contains the machine learning projects I have completed during [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice) from Coursera.
  
  ## Course 1 & 2: Introduction to TensorFlow & Convolutional Neural Networks
 - [0. Detecting Edges in Images](https://github.com/hasnainnaeem/Coursera-TensorFlow-Specialization-Projects/blob/master/Course%201%2C%202/0.%20Detecting%20Edges.ipynb)
